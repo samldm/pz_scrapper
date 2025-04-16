@@ -1,0 +1,4 @@
+collections:
+  default: COLLECTION_ID
+# you can add more collections. Example:
+# 10yl_modpack: COLLECTION_ID
